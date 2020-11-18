@@ -26,7 +26,7 @@ This project performs a http connection to Zendesk API using Scala programing la
 
 
 
-##Dependencies
+### Dependencies
 
 ```sh
 libraryDependencies ++=  Seq(
